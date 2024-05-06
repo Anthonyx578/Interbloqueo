@@ -1,0 +1,3 @@
+1.instalar las necesary tools que dice la documentacion
+https://code.visualstudio.com/docs/csharp/get-started
+2.ejecutar el proyecto
