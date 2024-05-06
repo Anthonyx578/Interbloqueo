@@ -1,0 +1,14 @@
+C:\Users\Anthonyx57\Documents\proyecto en C#\Interbloqueo\bin\Debug\net8.0\Interbloqueo.exe
+C:\Users\Anthonyx57\Documents\proyecto en C#\Interbloqueo\bin\Debug\net8.0\Interbloqueo.deps.json
+C:\Users\Anthonyx57\Documents\proyecto en C#\Interbloqueo\bin\Debug\net8.0\Interbloqueo.runtimeconfig.json
+C:\Users\Anthonyx57\Documents\proyecto en C#\Interbloqueo\bin\Debug\net8.0\Interbloqueo.dll
+C:\Users\Anthonyx57\Documents\proyecto en C#\Interbloqueo\bin\Debug\net8.0\Interbloqueo.pdb
+C:\Users\Anthonyx57\Documents\proyecto en C#\Interbloqueo\obj\Debug\net8.0\Interbloqueo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthonyx57\Documents\proyecto en C#\Interbloqueo\obj\Debug\net8.0\Interbloqueo.AssemblyInfoInputs.cache
+C:\Users\Anthonyx57\Documents\proyecto en C#\Interbloqueo\obj\Debug\net8.0\Interbloqueo.AssemblyInfo.cs
+C:\Users\Anthonyx57\Documents\proyecto en C#\Interbloqueo\obj\Debug\net8.0\Interbloqueo.csproj.CoreCompileInputs.cache
+C:\Users\Anthonyx57\Documents\proyecto en C#\Interbloqueo\obj\Debug\net8.0\Interbloqueo.dll
+C:\Users\Anthonyx57\Documents\proyecto en C#\Interbloqueo\obj\Debug\net8.0\refint\Interbloqueo.dll
+C:\Users\Anthonyx57\Documents\proyecto en C#\Interbloqueo\obj\Debug\net8.0\Interbloqueo.pdb
+C:\Users\Anthonyx57\Documents\proyecto en C#\Interbloqueo\obj\Debug\net8.0\Interbloqueo.genruntimeconfig.cache
+C:\Users\Anthonyx57\Documents\proyecto en C#\Interbloqueo\obj\Debug\net8.0\ref\Interbloqueo.dll
